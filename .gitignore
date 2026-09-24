@@ -1,0 +1,6 @@
+temp
+.env
+dist
+node_modules
+.aicredit
+.DS_Store

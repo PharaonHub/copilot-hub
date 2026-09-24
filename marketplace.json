@@ -1,0 +1,15 @@
+{
+  "name": "copilot-hub",
+  "metadata": {
+    "description": "BMAD Method workflow skills for GitHub Copilot",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "bmad",
+      "description": "BMAD Method planning, architecture, delivery, and agent skills",
+      "version": "0.1.0",
+      "source": "./plugins/bmad"
+    }
+  ]
+}

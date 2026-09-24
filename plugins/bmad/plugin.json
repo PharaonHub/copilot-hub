@@ -1,0 +1,6 @@
+{
+  "name": "bmad",
+  "description": "BMAD Method planning, architecture, delivery, and agent skills preview",
+  "version": "0.1.0",
+  "skills": "./skills"
+}
